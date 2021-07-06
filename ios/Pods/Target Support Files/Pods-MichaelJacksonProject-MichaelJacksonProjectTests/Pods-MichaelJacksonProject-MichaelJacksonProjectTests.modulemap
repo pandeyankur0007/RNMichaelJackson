@@ -1,0 +1,6 @@
+module Pods_MichaelJacksonProject_MichaelJacksonProjectTests {
+  umbrella header "Pods-MichaelJacksonProject-MichaelJacksonProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

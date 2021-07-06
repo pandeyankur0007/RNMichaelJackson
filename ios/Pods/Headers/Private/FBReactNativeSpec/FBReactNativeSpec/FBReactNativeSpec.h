@@ -1,0 +1,1 @@
+../../../../../../node_modules/react-native/React/FBReactNativeSpec/Native/Interview/MichaelJacksonProject/node_modules/react-native/React/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h
